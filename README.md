@@ -1,1 +1,1 @@
-This Repository have Jupyter Noteboks of Data Analysis And Data Visualization
+This Repository contains Jupyter Notebooks of Data Analysis And Data Visualization
